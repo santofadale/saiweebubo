@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eoshoyeegh.1gn.app/sitemap.xml
